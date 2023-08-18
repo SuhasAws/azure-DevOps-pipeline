@@ -1,4 +1,4 @@
-resource-group-name = "RG1"
+resource-group-name = "RG11"
 location = "East US"
 vnet-name = "Vnet1"
 vnet-address-space = ["10.0.0.0/16"]
@@ -91,7 +91,7 @@ BSTN-pip-sku = "Standard"
 BHOST-name = "Bastion-HOST"
 BHOST-ip-name = "BSTN-ipconfig"
 
-resource-group2-name = "RG2"
+resource-group2-name = "RG12"
 location2 = "central US"
 vnet2-name = "Vnet2"
 vnet2-address-space = ["11.0.0.0/16"]
